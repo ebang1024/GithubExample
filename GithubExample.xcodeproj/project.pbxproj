@@ -12,6 +12,7 @@
 		C68961802087D799003C1EB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C689617E2087D799003C1EB4 /* Main.storyboard */; };
 		C68961822087D799003C1EB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C68961812087D799003C1EB4 /* Assets.xcassets */; };
 		C68961852087D799003C1EB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C68961832087D799003C1EB4 /* LaunchScreen.storyboard */; };
+		C689618D2087DB9C003C1EB4 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C689618C2087DB9C003C1EB4 /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C68961812087D799003C1EB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C68961842087D799003C1EB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C68961862087D799003C1EB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C689618C2087DB9C003C1EB4 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C689617A2087D799003C1EB4 /* AppDelegate.swift */,
 				C689617C2087D799003C1EB4 /* ViewController.swift */,
 				C689617E2087D799003C1EB4 /* Main.storyboard */,
+				C689618C2087DB9C003C1EB4 /* NewViewController.swift */,
 				C68961812087D799003C1EB4 /* Assets.xcassets */,
 				C68961832087D799003C1EB4 /* LaunchScreen.storyboard */,
 				C68961862087D799003C1EB4 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C689618D2087DB9C003C1EB4 /* NewViewController.swift in Sources */,
 				C689617D2087D799003C1EB4 /* ViewController.swift in Sources */,
 				C689617B2087D799003C1EB4 /* AppDelegate.swift in Sources */,
 			);
